@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elisabete Martins de Oliveira
-- 👀 I’m interested in WOW
+- 👀 I’m interested in WOW (...and how do I put a horde emote here 😸)
 - 🌱 I’m currently learning React 
 - 📫 How to reach me: 
     > instagram: @bete_mrt 
