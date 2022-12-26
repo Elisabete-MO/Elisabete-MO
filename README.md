@@ -1,22 +1,26 @@
 - 👋 Hi, I’m Elisabete Martins de Oliveira
 - 👀 I’m interested in WOW (...and how do I put a horde emote here 😸)
 - 🌱 I’m currently learning React
-
-<a href="https://github.com/Elisabete-MO/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elisabete-MO&count_private=true&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/Elisabete-MO/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisabete-MO&langs_count=8&theme=transparent" />
-</a>
-
-
+<hr>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Elisabete-MO&count_private=true&show_icons=true&theme=transparent" />
+<br>
+<img align="right" float="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisabete-MO&langs_count=8&theme=transparent" />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
 <h3>🛠 Tech Stack</h3>
 
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML-5"/></a>  <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/></a>  <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JS"/></a>  <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS"/></a>  <a src="https://www.npmjs.com/"><img alt="npm" src="https://img.icons8.com/color/48/000000/npm.png" /></a>  <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML-5"/></a>  <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/></a>  <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JS"/></a>  <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS"/></a>  <a src="https://redux.js.org/"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/></a>  <a src="https://www.npmjs.com/"><img alt="npm" src="https://img.icons8.com/color/48/000000/npm.png" /></a>  <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/></a>
 
 <h3>🛠 To Learn</h3>
 
-<a src="https://getbootstrap.com/" alt="Bootstrap"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" /></a>  <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/></a>
+<a src="https://getbootstrap.com/" alt="Bootstrap"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" /></a>  <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/></a> <a src="https://python.org/" alt="Python"><img src="https://img.icons8.com/color/48/000000/python.png" /></a>  <a src="https://www.MySQL.com/"><img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/></a>
+
 - 💻 &nbsp; Python MySQL
 
 <hr>
