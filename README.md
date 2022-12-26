@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elisabete Martins de Oliveira
-- 👀 I’m interested in WOW (...and how do I put a horde emote here 😸)
-- 🌱 I’m currently learning React
+- 👀 I’m interested in WOW (...For the <img align="center" src="https://img.icons8.com/color/30/world-of-warcraft-horde.png" />!)
+- 🌱 I’m currently learning - Partiu Férias! :beach_umbrella:
 <hr>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Elisabete-MO&count_private=true&show_icons=true&theme=transparent" />
 <br>
