@@ -2,16 +2,9 @@
 - 👀 I’m interested in WOW (...For the <img align="center" src="https://img.icons8.com/color/30/world-of-warcraft-horde.png" />!)
 - 🌱 I’m currently learning - Partiu Férias! :beach_umbrella:
 <hr>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Elisabete-MO&count_private=true&show_icons=true&theme=transparent" />
-<br>
-<img align="right" float="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisabete-MO&langs_count=8&theme=transparent" />
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Elisabete-MO&count_private=true&show_icons=true&theme=transparent" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisabete-MO&langs_count=8&theme=transparent" width="47%"/>
+
 <hr>
 <h3>🛠 Tech Stack</h3>
 
