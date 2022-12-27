@@ -3,8 +3,8 @@
 - I :heartpulse: The **Lord** of the Rings, The Umbrella Academy and The Witcher
 - 🌱 I’m currently learning - Partiu Férias! :beach_umbrella:
 ---
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Elisabete-MO&count_private=true&show_icons=true&theme=transparent" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisabete-MO&langs_count=8&theme=transparent" width="47%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Elisabete-MO&count_private=true&show_icons=true&theme=transparent&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisabete-MO&langs_count=8&theme=transparent&hide_border=true" width="47%"/>
 
 <hr>
 <h3>🛠 Tech Stack</h3>
