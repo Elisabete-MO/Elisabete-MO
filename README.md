@@ -1,5 +1,6 @@
 ## 👋 Hi, I’m Elisabete Martins de Oliveira
 - 👀 I’m interested in WOW (...For the <img align="center" src="https://img.icons8.com/color/30/world-of-warcraft-horde.png" />!)
+- I :heartpulse: The **Lord** of the Rings, The Umbrella Academy and The Witcher
 - 🌱 I’m currently learning - Partiu Férias! :beach_umbrella:
 ---
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Elisabete-MO&count_private=true&show_icons=true&theme=transparent" width="50%"/>
