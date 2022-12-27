@@ -15,24 +15,32 @@
 <hr>
 <h3>🛠 Tech Stack</h3>
 
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML-5"/></a>  <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/></a>  <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JS"/></a>  <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS"/></a>  <a src="https://redux.js.org/"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/></a>  <a src="https://www.npmjs.com/"><img alt="npm" src="https://img.icons8.com/color/48/000000/npm.png" /></a>  <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/></a>
+<a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML-5"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/></a>
+<a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JS"/></a>
+<a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS"/></a>
+<a href="https://redux.js.org/"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/></a> 
+<a href="https://www.npmjs.com/"><img alt="npm" src="https://img.icons8.com/color/48/000000/npm.png" /></a>
+<a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/></a>
 
 <h3>🛠 To Learn</h3>
 
-<a src="https://getbootstrap.com/" alt="Bootstrap"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" /></a>  <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/></a> <a src="https://python.org/" alt="Python"><img src="https://img.icons8.com/color/48/000000/python.png" /></a>  <a src="https://www.MySQL.com/"><img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/></a>
-
-- 💻 &nbsp; Python MySQL
+<a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></a>
+<a href="https://www.docker.com/"><img alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+<a href="https://python.org/"><img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" /></a>
+<a href="https://www.MySQL.com/"><img alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
 
 <hr>
 <h3> 📫 How to reach me </h3>
 
 <p>
-<!---[![Linkedin Badge](https://img.shields.io/badge/-Neel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gorasiyaneel/)](https://www.linkedin.com/in/gorasiyaneel/) --->    
-<a href="https://www.instagram.com/bete.mrt/"><img alt="Instagram" src="https://img.shields.io/badge/-bete.mrt-f94877?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white"></a>
-    
-<a href="mailto:bete.mrt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-bete.mrt@gmail.com-c14438?style=flat-square&labelColor=c14438&logo=Gmail&logoColor=white"></a>
-</p>
-
+<!--   
+ <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a> -->
+ <a href="https://www.instagram.com/bete.mrt/" target="blank"><img align="center" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /></a>
+<!--  <a href="https://twitter.com/pramod2107" target="blank"><img align="center" alt="Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /></a> -->
+ <a href="mailto:bete.mrt@gmail.com" target="blank"><img align="center" alt="Email" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /></a>
 
 <!---
 Elisabete-MO/Elisabete-MO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
