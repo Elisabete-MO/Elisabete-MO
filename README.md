@@ -20,6 +20,7 @@
 <h3>🛠 To Learn</h3>
 
 <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></a>
+<a href="https://testing-library.com/"><img alt="React Testing Library" src="https://testing-library.com/img/octopus-128x128.png" width="48px"/></a>
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png"/></a>
 <a href="https://python.org/"><img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" /></a>
 <a href="https://www.MySQL.com/"><img alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
