@@ -1,11 +1,15 @@
-## 👋 Hi, I’m Elisabete Martins de Oliveira
+## 👋 Hi, I’m Elisabete Martins de Oliveira> 
+<img src="https://thumbs.gfycat.com/DistantIllinformedBoutu-max-1mb.gif" width="280" height="180" align="right" alt="via Gfycat"/>
+</br>
+
 - 👀 I’m interested in WOW (...For the <img align="center" src="https://img.icons8.com/color/30/world-of-warcraft-horde.png" />!)
 - I :heartpulse: The **Lord** of the Rings, The Umbrella Academy and The Witcher
 - 🌱 I’m currently learning - Partiu Férias! :beach_umbrella:
----
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Elisabete-MO&count_private=true&show_icons=true&theme=transparent&hide_border=true" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisabete-MO&langs_count=8&theme=transparent&hide_border=true" width="47%"/>
-
+- ⚡ Fun fact: I'm a very, very _old school_ gamer 
+</br>
+<hr>
+<img align="left" float="center" src="https://github-readme-stats.vercel.app/api?username=Elisabete-MO&count_private=true&show_icons=true&theme=transparent&hide_border=true" width="55%"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisabete-MO&langs_count=8&theme=transparent&hide_border=true" width="35%"/>
 <hr>
 <h3>🛠 Tech Stack</h3>
 
