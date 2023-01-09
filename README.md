@@ -5,7 +5,7 @@
 - 👀 I’m interested in WOW (...For the <img align="center" src="https://img.icons8.com/color/30/world-of-warcraft-horde.png" />!)
 - I :heartpulse: The **Lord** of the Rings, The Umbrella Academy and The Witcher
 - 🌱 I’m currently learning - Partiu Férias! :beach_umbrella:
-- ⚡ Fun fact: I'm a very, very _old school_ gamer 
+- ⚡ Fun fact: I've been playing video games for a long, long time. 
 </br>
 <hr>
 <img align="left" float="center" src="https://github-readme-stats.vercel.app/api?username=Elisabete-MO&count_private=true&show_icons=true&theme=transparent&hide_border=true" width="55%"/>
