@@ -13,8 +13,8 @@
 <hr>
 <h3>🛠 Tech Stack</h3>
 
-<a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML-5"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML-5"/></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/></a>
 <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JS"/></a>
 <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS"/></a>
 <a href="https://redux.js.org/"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/></a> 
