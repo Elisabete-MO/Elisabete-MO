@@ -8,12 +8,7 @@
 - ⚡ Fun fact: I've been playing video games for a long, long time. :feelsgood:
 </br>
 <hr>
-<img align="left" float="center" src="https://github-readme-stats.vercel.app/api?username=Elisabete-MO" width="55%"/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elisabete-MO)](https://github.com/elisabete-mo/github-readme-stats)
-
-<!-- <img align="left" float="center" src="https://github-readme-stats.vercel.app/api?username=Elisabete-MO&count_private=true&show_icons=true&theme=transparent&hide_border=true" width="55%"/> -->
-
+<img align="left" float="center" src="https://github-readme-stats.vercel.app/api?username=Elisabete-MO&count_private=true&show_icons=true&theme=transparent&hide_border=true" width="55%"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisabete-MO&langs_count=8&theme=transparent&hide_border=true" width="35%"/>
 <hr>
 <h3>🛠 Tech Stack</h3>
