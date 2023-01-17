@@ -4,7 +4,9 @@
 
 - 👀 I’m interested in WOW (...For the <img align="center" src="https://img.icons8.com/color/30/world-of-warcraft-horde.png" />!)
 - I :heartpulse: The **Lord** of the Rings, The Umbrella Academy and The Witcher
-- 🌱 I’m currently learning - ~Partiu Férias! :beach_umbrella:~ - <a href="https://www.docker.com/"><img align="top" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width=70px/></a>
+- 🌱 I’m currently learning - ~Partiu Férias! :beach_umbrella:~ 
+  - <a href="https://www.docker.com/"><img align="top" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width=80px/></a>
+  - <a href="https://www.MySQL.com/"><img align="top" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white" width=80px/></a>
 - ⚡ Fun fact: I've been playing video games for a long, long time. :feelsgood:
 </br>
 <hr>
