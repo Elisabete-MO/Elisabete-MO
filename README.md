@@ -51,13 +51,23 @@
 <h3> 📫 How to reach me </h3>
 
 <p>
+
+<p align="center">
+  <a href="https://skillicons.dev">   
+    <a href="www.linkedin.com/in/ elisabete-martinsdeoliveira" target="blank">
+      <img alt="LinkedIn" align="center" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" />
+    </a>
    
- <!-- <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a> -->
- <a href="https://www.instagram.com/bete.mrt/" target="blank"><img align="center" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /></a>
+   <a href="https://www.instagram.com/bete.mrt/" target="blank">
+      <img alt="Instagram" align="center" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" /></a>
+  </a>
+  <a href="mailto:bete.mrt@gmail.com" target="blank">
+      <img alt="Email" align="center" width="50px" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" /></a>
+</p>
+ 
+<!--  https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg -->
 <!--  <a href="https://twitter.com/pramod2107" target="blank"><img align="center" alt="Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /></a> -->
- <a href="mailto:bete.mrt@gmail.com" target="blank"><img align="center" alt="Email" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /></a>
+
 
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elisabete-mo" alt="elisabete-mo" /></a> </p>
 
