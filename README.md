@@ -7,10 +7,11 @@
 - I :heartpulse: *The Lord of the Rings, The Umbrella Academy* and *The Witcher*
 
  - 🌱 I’m currently learning - ~Partiu Férias! :beach_umbrella:~    
-  - <a href="https://www.typescriptlang.org/"><img align="top" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=28 width=110px/></a>
-   - <a href="https://nodejs.org"><img align="top" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width=90px/></a>
-      - <a href="https://www.MySQL.com/"><img align="top" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white" height=18 width=70px/></a>
-      - <a href="https://www.docker.com/"><img align="top" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width=70px/></a>
+ - <a href="https://www.mongodb.com/"><img align="top" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a> 
+ - <a href="https://www.typescriptlang.org/"><img align="top" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=28 width=110px/></a>
+ - <a href="https://nodejs.org"><img align="top" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width=90px/></a>
+ - <a href="https://www.MySQL.com/"><img align="top" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white" height=18 width=70px/></a>
+ - <a href="https://www.docker.com/"><img align="top" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width=70px/></a>
 
   - ⚡ Fun fact: I've been playing video games for a long, long time. :feelsgood:
 </br>
