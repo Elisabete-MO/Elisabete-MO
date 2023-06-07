@@ -1,19 +1,16 @@
 ## 👋 Hi, I’m Elisabete Martins de Oliveira
 </br>
-<img src="https://thumbs.gfycat.com/DistantIllinformedBoutu-max-1mb.gif" width="380" height="280" align="right" alt="via Gfycat"/>
+<img src="https://thumbs.gfycat.com/DistantIllinformedBoutu-max-1mb.gif" width="380" height="250" align="right" alt="via Gfycat"/>
 
 - 👀 I’m interested in WOW (...For the <img align="center" src="https://img.icons8.com/color/30/world-of-warcraft-horde.png" />!)
 
 - I :heartpulse: *The Lord of the Rings, The Umbrella Academy* and *The Witcher*
 
- - 🌱 I’m currently learning - ~Partiu Férias! :beach_umbrella:~    
- - <a href="https://www.mongodb.com/"><img align="top" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a> 
- - <a href="https://www.typescriptlang.org/"><img align="top" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=28 width=110px/></a>
- - <a href="https://nodejs.org"><img align="top" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width=90px/></a>
- - <a href="https://www.MySQL.com/"><img align="top" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white" height=18 width=70px/></a>
- - <a href="https://www.docker.com/"><img align="top" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width=70px/></a>
-
+ - 🌱 I’m currently learning - "Tá quase no fim!" 🤓
+   - <a href="https://python.org/" target="_blank"><img align="top" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> 
+<br/>
   - ⚡ Fun fact: I've been playing video games for a long, long time. :feelsgood:
+</br>
 </br>
 <hr>
 <img align="left" float="center" src="https://github-readme-stats.vercel.app/api?username=Elisabete-MO&count_private=true&show_icons=true&theme=transparent" width=62%/>
@@ -29,24 +26,25 @@
 <a href="https://redux.js.org/"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/></a> 
 <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.icons8.com/color/48/000000/npm.png" /></a>
 <a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/></a>
+<a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+<a href="https://www.MySQL.com/" target="_blank"><img alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a> 
+<a href="https://sequelize.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40" height="40"/> </a> 
+<a href="https://jwt.io/" target="_blank"> <img src="https://img.icons8.com/color/512/java-web-token.png" alt="JWT" width="40" height="40"/> </a> 
+<a href="http://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/> </a>
+<a href="https://mochajs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha" width="40" height="40"/> </a> 
 
 <h3>🛠 To Learn</h3>
 
 <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></a>
 <a href="https://testing-library.com/" target="_blank"><img alt="React Testing Library" src="https://testing-library.com/img/octopus-128x128.png" width="48px"/></a>
-<a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png"/></a>
 <a href="https://python.org/" target="_blank"><img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" /></a>
-<a href="https://www.MySQL.com/" target="_blank"><img alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
-<a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://sequelize.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/> </a> 
-<a href="https://jwt.io/" target="_blank"> <img src="https://img.icons8.com/color/512/java-web-token.png" alt="JWT" width="40" height="40"/> </a> 
-<a href="http://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://mochajs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> </a> 
+<a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a> 
+<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GO" width="40" height="40"/> </a> 
+<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/></a>
 
 <hr>
 <h3> 📫 How to reach me </h3>
