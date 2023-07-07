@@ -6,8 +6,8 @@
 
 - I :heartpulse: *The Lord of the Rings, The Umbrella Academy* and *The Witcher*
 
- - 🌱 I’m currently learning - "Tá quase no fim!" 🤓
-   - <a href="https://python.org/" target="_blank"><img align="top" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> 
+ - 🌱 I’m currently learning:
+   - <a href="https://java.com/" target="_blank"><img align="top" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a> 
 <br/>
   - ⚡ Fun fact: I've been playing video games for a long, long time. :feelsgood:
 </br>
@@ -35,12 +35,13 @@
 <a href="https://jwt.io/" target="_blank"> <img src="https://img.icons8.com/color/512/java-web-token.png" alt="JWT" width="40" height="40"/> </a> 
 <a href="http://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/> </a>
 <a href="https://mochajs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha" width="40" height="40"/> </a> 
+<a href="https://python.org/" target="_blank"><img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" /></a>
 
 <h3>🛠 To Learn</h3>
 
+<a href="https://java.com/" target="_blank"><img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /></a>
 <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></a>
 <a href="https://testing-library.com/" target="_blank"><img alt="React Testing Library" src="https://testing-library.com/img/octopus-128x128.png" width="48px"/></a>
-<a href="https://python.org/" target="_blank"><img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" /></a>
 <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a> 
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GO" width="40" height="40"/> </a> 
