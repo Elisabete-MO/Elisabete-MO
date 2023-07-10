@@ -39,7 +39,8 @@
 
 <h3>🛠 To Learn</h3>
 
-<a href="https://java.com/" target="_blank"><img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /></a>
+<a href="https://java.com/" target="_blank"><img alt="Java" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img alt="Amazon Web Services" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" /></a>
 <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></a>
 <a href="https://testing-library.com/" target="_blank"><img alt="React Testing Library" src="https://testing-library.com/img/octopus-128x128.png" width="48px"/></a>
 <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/> </a> 
