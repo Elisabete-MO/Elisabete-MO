@@ -26,30 +26,52 @@
   </table>
 </div>
 <hr>
-<div>
-			<h3>🛠 Tech Stack</h3>
-			<a href="https://html.spec.whatwg.org/multipage/"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML-5"/></a>
-			<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/></a>
-			<a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JS"/></a>
-			<a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS"/></a>
-			<a href="https://redux.js.org/"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/></a> 
-			<a href="https://www.npmjs.com/"><img alt="npm" src="https://img.icons8.com/color/48/000000/npm.png" /></a>
-			<a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/></a>
-			<a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-			<a href="https://www.MySQL.com/" target="_blank"><img alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
-			<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/> </a>
-			<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="40" height="40"/> </a> 
+  <h3>🛠 Tech Stack</h3>
+<div align="center">
+  <table style="none">
+    <tr>
+      <td>
+      <a href="https://java.com/" target="_blank"><img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" /></a>
+      <a href="https://spring.io/" target="_blank"><img alt="Spring Framework" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" /></a>
+      <a href="https://hibernate.org/" target="_blank"><img alt="Hibernate" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="40" /></a>
+      <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/></a>
+      <a href="https://jwt.io/" target="_blank"> <img src="https://img.icons8.com/color/512/java-web-token.png" alt="JsonWebToken" width="40"/> </a> 
+      <a href="http://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="40"/> </a>
+      <a href="https://sequelize.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize" width="40"/></a>
+      <a href="https://www.MySQL.com/" target="_blank"><img alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40"/></a>
+      <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongodb" width="40"/> </a>
+      <a href="https://www.javascript.com/"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40"/></a>
+      <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" alt="CSS" width="40"/></a>
+      <a href="https://html.spec.whatwg.org/multipage/"><img src="https://www.vectorlogo.zone/logos/html5/html5.svg" alt="HTML-5" width="40"/></a>
+      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="40"/> </a>
+      <a href="https://www.npmjs.com/"><img alt="npm" src="https://www.vectorlogo.zone/logos/express/express-icon.svg" width="40"/></a>
+      <a href="https://reactjs.org/"><img src="https://www.vectorlogo.zone/logos/express/express-icon.svg" alt="ReactJS" width="40"/></a>
+      <a href="https://redux.js.org/"><img src="https://www.vectorlogo.zone/logos/express/express-icon.svg" alt="Redux" width="40"/></a>
+
+      </td>
+    </tr>
+    <tr>
+      
+      <a href="https://github.com/"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40"/></a>
+      <a href="https://commonmark.org/"><img src="https://www.vectorlogo.zone/logos/commonmark/commonmark-icon.svg" alt="Markdown" width="40"/></a>
+    </tr>
+</table>
+    			  
+	    
+     
+			
+			
+			
+			
+			 
 			<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a> 
-			<a href="https://sequelize.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40" height="40"/> </a> 
-			<a href="https://jwt.io/" target="_blank"> <img src="https://img.icons8.com/color/512/java-web-token.png" alt="JWT" width="40" height="40"/> </a> 
-			<a href="http://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/> </a>
+
 			<a href="https://mochajs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha" width="40" height="40"/> </a> 
 			<a href="https://python.org/" target="_blank"><img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" /></a>
 </div>
 <div>
 <h3>🛠 To Learn</h3>
 
-<a href="https://java.com/" target="_blank"><img alt="Java" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img alt="Amazon Web Services" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" /></a>
 <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></a>
 <a href="https://testing-library.com/" target="_blank"><img alt="React Testing Library" src="https://testing-library.com/img/octopus-128x128.png" width="48px"/></a>
