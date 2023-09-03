@@ -102,7 +102,7 @@
 <!--  <a href="https://twitter.com/pramod2107" target="blank"><img align="center" alt="Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /></a> -->
 
 
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elisabete-mo" alt="elisabete-mo" /></a> </p>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elisabete-mo&no-bg=true&no-frame=true" alt="elisabete-mo" /></a> </p>
 
 <!---
 Elisabete-MO/Elisabete-MO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
