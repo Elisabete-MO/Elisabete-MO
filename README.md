@@ -7,7 +7,10 @@
 - I :heartpulse: *The Lord of the Rings, The Umbrella Academy* and *The Witcher*
 
  - 🌱 I’m currently learning:
-   - <a href="https://java.com/" target="_blank"><img align="top" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a> 
+   - <a href="(https://angular.io/" target="_blank"><img align="top" alt="Angular" src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white" /></a>
+   - <a href="https://java.com/" target="_blank"><img align="top" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" /></a>
+   -  <a href="https://kotlinlang.org/" target="_blank"><img align="top" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a> 
+
 <br/>
   - ⚡ Fun fact: I've been playing video games for a long, long time. :feelsgood:
 </br>
