@@ -18,7 +18,7 @@
 <hr>
 
 <div align="center">
-  <table border="none">
+  <table border="0">
     <tr>
       <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Elisabete-MO&count_private=true&show_icons=true&theme=transparent&hide_border=true" /></td>
       <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisabete-MO&langs_count=6&theme=transparent&hide_border=true" /></td>
@@ -28,7 +28,7 @@
 <hr>
   <h3>🛠️ Tech Stack</h3>
 <div align="center">
-  <table border="none">
+  <table border="0" text-align="center">
     <tr>
       <td>
         <a href="https://java.com/" target="_blank"><img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" /></a>
@@ -48,6 +48,8 @@
         <a href="https://redux.js.org/"><img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="Redux" width="40"/></a>
       </td>
     </tr>
+  </table>
+  <table border="0" text-align="center">
     <tr>
       <td>
         <a href="https://www.npmjs.com/"><img alt="npm" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40"/></a>
@@ -63,7 +65,7 @@
 
 <h3>🛠️ To Learn</h3>
 <div align="center">
-  <table border="none">
+  <table border=0>
     <tr>
         <td>
 	  <a href="https://angular.io/" target="_blank"><img alt="Angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="40" /></a>
