@@ -1,20 +1,28 @@
 ## 👋 Hi, I’m Elisabete Martins de Oliveira
 </br>
-<img src="https://thumbs.gfycat.com/DistantIllinformedBoutu-max-1mb.gif" width="380" height="250" align="right" alt="via Gfycat"/>
-
-- 👀 I’m interested in WOW (...For the <img align="center" src="https://img.icons8.com/color/30/world-of-warcraft-horde.png" />!)
-
-- I :heartpulse: *The Lord of the Rings, The Umbrella Academy* and *The Witcher*
-
- - 🌱 I’m currently learning:
-   - <a href="(https://angular.io/" target="_blank"><img align="top" alt="Angular" src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white" /></a>
-   - <a href="https://java.com/" target="_blank"><img align="top" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" /></a>
-   -  <a href="https://kotlinlang.org/" target="_blank"><img align="top" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a> 
-
+<table border="0" text-align="center">
+  <tr>
+    <td>
+      <ul>
+        <li>👀 I’m interested in WOW (...For the <img align="center" src="https://img.icons8.com/color/30/world-of-warcraft-horde.png" />!)</li>
+        <li>I :heartpulse: <i>The Lord of the Rings</i>, <i>The Umbrella Academy</i> and <i>The Witcher</i></li>
 <br/>
-  - ⚡ Fun fact: I've been playing video games for a long, long time. :feelsgood:
-</br>
-</br>
+        <li><strong>🌱 I’m currently learning:</strong></li>
+	  <ul>
+            <li><a href="(https://angular.io/" target="_blank"><img align="top" alt="Angular" src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white" /></a></li>
+            <li><a href="https://java.com/" target="_blank"><img align="top" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" /></a>	</li>
+	    <li><a href="https://kotlinlang.org/" target="_blank"><img align="top" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a></li>
+	  </ul>
+<br/>
+        <li>⚡ Fun fact: I've been playing video games for a long, long time. :feelsgood:</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media1.giphy.com/media/TTy5YmVmhmWhq/giphy.gif?cid=ecf05e47pezss22twk6req46d990okx4wk97kraucnbqiy0b&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50%" align="center"/>
+      <p><a href="https://giphy.com/gifs/80s-nintendo-TTy5YmVmhmWhq">via GIPHY</a></p>
+    </td>
+  </tr>
+</table>
 <hr>
 
 <div align="center">
