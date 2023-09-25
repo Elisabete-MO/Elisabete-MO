@@ -17,9 +17,9 @@
         <li>⚡ Fun fact: I've been playing video games for a long, long time. :feelsgood:</li>
       </ul>
     </td>
-    <td>
-      <img src="https://media1.giphy.com/media/TTy5YmVmhmWhq/giphy.gif?cid=ecf05e47pezss22twk6req46d990okx4wk97kraucnbqiy0b&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50%" align="center"/>
-      <p><a href="https://giphy.com/gifs/80s-nintendo-TTy5YmVmhmWhq">via GIPHY</a></p>
+    <td align="center">
+      <img src="https://media1.giphy.com/media/TTy5YmVmhmWhq/giphy.gif?cid=ecf05e47pezss22twk6req46d990okx4wk97kraucnbqiy0b&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50%"/>
+      <h6 padding="0"><a href="https://giphy.com/gifs/80s-nintendo-TTy5YmVmhmWhq">via GIPHY</a></h6>
     </td>
   </tr>
 </table>
