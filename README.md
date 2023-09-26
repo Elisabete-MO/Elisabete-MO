@@ -10,7 +10,7 @@
         <li><strong>🌱 I’m currently learning:</strong></li>
 	  <ul>
             <li><a href="(https://angular.io/" target="_blank"><img align="top" alt="Angular" src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white" /></a></li>
-            <li><a href="https://java.com/" target="_blank"><img align="top" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" /></a>	</li>
+            <li><a href="https://java.com/" target="_blank"><img align="top" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" /></a></li>
 	    <li><a href="https://kotlinlang.org/" target="_blank"><img align="top" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a></li>
 	  </ul>
 <br/>
@@ -18,8 +18,9 @@
       </ul>
     </td>
     <td align="center">
-      <img src="https://media1.giphy.com/media/TTy5YmVmhmWhq/giphy.gif?cid=ecf05e47pezss22twk6req46d990okx4wk97kraucnbqiy0b&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50%"/>
-      <h6 padding="0"><a href="https://giphy.com/gifs/80s-nintendo-TTy5YmVmhmWhq">via GIPHY</a></h6>
+      <a href="https://giphy.com/gifs/80s-nintendo-TTy5YmVmhmWhq">
+	      <img src="https://media1.giphy.com/media/TTy5YmVmhmWhq/giphy.gif?cid=ecf05e47pezss22twk6req46d990okx4wk97kraucnbqiy0b&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="60%" alt="Giphy"/>
+      </a>
     </td>
   </tr>
 </table>
