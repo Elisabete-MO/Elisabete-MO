@@ -9,7 +9,7 @@
 <br/>
         <li><strong>🌱 I’m currently learning:</strong></li>
 	  <ul>
-            <li><a href="(https://angular.io/" target="_blank"><img align="top" alt="Angular" src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white" /></a></li>
+            <li><a href="https://angular.io/" target="_blank"><img align="top" alt="Angular" src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white" /></a></li>
             <li><a href="https://java.com/" target="_blank"><img align="top" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" /></a></li>
 	    <li><a href="https://kotlinlang.org/" target="_blank"><img align="top" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a></li>
 	  </ul>
@@ -49,7 +49,7 @@
         <a href="https://sequelize.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize" width="40"/></a>
         <a href="https://www.MySQL.com/" target="_blank"><img alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40"/></a>
         <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongodb" width="40"/> </a>
-        <a href="https://www.javascript.com/"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40"/></a>
+        <a href="https://www.javascript.com/"><img src="https://upload.vectorlogo.zone/logos/javascript/images/806c2e30-cf85-4b36-81bb-037049603c34.svg" alt="JavaScript" width="40"/></a>
         <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40"/></a>
         <a href="https://html.spec.whatwg.org/multipage/"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML-5" width="40"/></a>
         <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="40"/> </a>
