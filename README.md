@@ -9,9 +9,10 @@
 <br/>
         <li><strong>🌱 I’m currently learning:</strong></li>
 	  <ul>
-            <li><a href="https://angular.io/" target="_blank"><img align="top" alt="Angular" src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white" /></a></li>
+            <li><a href="https://aws.amazon.com/pt/certification/certified-cloud-practitioner/?ch=sec&sec=rmg&d=1" target="_blank"><img align="top" alt="AWS Cloud Practitioner" src="https://img.shields.io/badge/Amazon Web Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" /></a></li>
             <li><a href="https://java.com/" target="_blank"><img align="top" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" /></a></li>
-	    <li><a href="https://kotlinlang.org/" target="_blank"><img align="top" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a></li>
+	    <li><a href="https://spring.io/" target="_blank"><img align="top" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></a></li>
+	    <li><a href="https://mysql.com/" target="_blank"><img align="top" alt="My SQL" src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white" /></a></li>
 	  </ul>
 <br/>
         <li>⚡ Fun fact: I've been playing video games for a long, long time. :feelsgood:</li>
@@ -43,30 +44,31 @@
         <a href="https://java.com/" target="_blank"><img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" /></a>
         <a href="https://spring.io/" target="_blank"><img alt="Spring Framework" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" /></a>
         <a href="https://hibernate.org/" target="_blank"><img alt="Hibernate" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="40" /></a>
+	<a href="https://github.com/"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40"/></a>
+        <a href="https://commonmark.org/"><img src="https://www.vectorlogo.zone/logos/commonmark/commonmark-icon.svg" alt="Markdown" width="40"/></a>
         <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/></a>
         <a href="https://jwt.io/" target="_blank"> <img src="https://img.icons8.com/color/512/java-web-token.png" alt="JsonWebToken" width="40"/> </a> 
-        <a href="http://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="40"/> </a>
-        <a href="https://sequelize.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize" width="40"/></a>
         <a href="https://www.MySQL.com/" target="_blank"><img alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40"/></a>
-        <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongodb" width="40"/> </a>
-        <a href="https://www.javascript.com/"><img src="https://upload.vectorlogo.zone/logos/javascript/images/806c2e30-cf85-4b36-81bb-037049603c34.svg" alt="JavaScript" width="40"/></a>
-        <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40"/></a>
-        <a href="https://html.spec.whatwg.org/multipage/"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML-5" width="40"/></a>
-        <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="40"/> </a>
-        <a href="https://reactjs.org/"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="40"/></a>
-        <a href="https://redux.js.org/"><img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="Redux" width="40"/></a>
-      </td>
+	<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongodb" width="40"/> </a>
+	<a href="https://angular.io/" target="_blank"><img alt="Angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="40" /></a>
+	<a href="https://kotlinlang.org/" target="_blank"><img alt="Kotlin" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" /></a>
+        <a href="https://python.org/" target="_blank"><img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"/></a>
+	<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40"/> </a>
     </tr>
   </table>
   <table border="0" text-align="center">
     <tr>
       <td>
+	<a href="https://www.javascript.com/"><img src="https://upload.vectorlogo.zone/logos/javascript/images/806c2e30-cf85-4b36-81bb-037049603c34.svg" alt="JavaScript" width="40"/></a>
+        <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40"/></a>
+        <a href="https://html.spec.whatwg.org/multipage/"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML-5" width="40"/></a>
+        <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="40"/> </a>
         <a href="https://www.npmjs.com/"><img alt="npm" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40"/></a>
-        <a href="https://github.com/"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40"/></a>
-        <a href="https://commonmark.org/"><img src="https://www.vectorlogo.zone/logos/commonmark/commonmark-icon.svg" alt="Markdown" width="40"/></a>
-        <a href="https://python.org/" target="_blank"><img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"/></a>
+        <a href="https://reactjs.org/"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="40"/></a>
+        <a href="https://redux.js.org/"><img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="Redux" width="40"/></a>
+        <a href="http://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="40"/> </a>
+        <a href="https://sequelize.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize" width="40"/></a>
         <a href="https://mochajs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" width="40"/> </a> 
-        <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40"/> </a>
       </td>
     </tr>
   </table>			
@@ -77,8 +79,6 @@
   <table border=0>
     <tr>
         <td>
-	  <a href="https://angular.io/" target="_blank"><img alt="Angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="40" /></a>
-          <a href="https://kotlinlang.org/" target="_blank"><img alt="Kotlin" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" /></a>
           <a href="https://aws.amazon.com/" target="_blank"><img alt="Amazon Web Services" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" /></a>
           <a href="https://cloud.google.com/" target="_blank"><img alt="Google Cloud" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
           <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40"/></a>
