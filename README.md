@@ -1,16 +1,4 @@
-<table>
-  <tr>
-    <td>
-      <h1>👋 Hi, I’m Elisabete Martins de Oliveira</h1>
-    </td>
-    <td align="right" width="30%">
-      <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="30%" alt="AWS Developer Badge"/> 
-      <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="30%" alt="AWS Cloud Practitioner Badge"/> 
-      <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="30%" alt="GitHub Foundations"/>
-    </td>
-  </tr>
-</table>
-
+<h1>👋 Hi, I’m Elisabete Martins de Oliveira</h1>
 <table>
   <tr>
     <td>
@@ -42,7 +30,7 @@
 
 ---
 
-## 🧠 About Me
+## <a href="https://www.credly.com/users/elisabete-martins-de-oliveira" target="_blank"><img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="60" alt="AWS Developer Badge"/></a><a href="https://www.credly.com/users/elisabete-martins-de-oliveira" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="60" alt="AWS Cloud Practitioner Badge"/></a><a href="https://www.credly.com/users/elisabete-martins-de-oliveira" target="_blank"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="60" alt="GitHub Foundations"/></a>About me
 
 I'm a backend developer with a strong foundation in logic and data — a combination shaped by my academic background in Computer Science (FATEC-SP) and Mathematics (UNICSUL).
 
