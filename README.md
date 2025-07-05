@@ -14,7 +14,7 @@
           <li> Microservices architecture with Spring Boot and AWS</li>
           <li> Messaging systems (Kafka/RabbitMQ)</li>
           <li> CI/CD pipelines with GitHub Actions</li>
-	  <li> MontoringMonitoring, tests and resilience</li>
+	  <li> Monitoring, tests and resilience</li>
           <li> Distributed architecture and cost optimization (FinOps basics)</li>
 	</ul>
 	</br>
