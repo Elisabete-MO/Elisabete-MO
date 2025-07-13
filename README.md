@@ -4,6 +4,7 @@
 	<a href="https://www.credly.com/users/elisabete-martins-de-oliveira" target="_blank"><img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="60" alt="AWS Developer Badge"/></a>
 	<a href="https://www.credly.com/users/elisabete-martins-de-oliveira" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="60" alt="AWS Cloud Practitioner Badge"/></a>
 	<a href="https://www.credly.com/users/elisabete-martins-de-oliveira" target="_blank"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="60" alt="GitHub Foundations"/></a>
+	<a href="https://www.credly.com/users/elisabete-martins-de-oliveira" target="_blank"><img src="https://images.credly.com/size/340x340/images/6933c05e-f694-4504-a3da-16c9c102a63d/blob" width="60" alt="GitHub Copilot Challenge"/></a>
 </p>
 
 <table>
