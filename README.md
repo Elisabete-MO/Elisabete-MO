@@ -1,13 +1,24 @@
 <h1>👋 Hi, I’m Elisabete Martins de Oliveira</h1>
+
+<p align="right">
+	<a href="https://www.credly.com/users/elisabete-martins-de-oliveira" target="_blank"><img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="60" alt="AWS Developer Badge"/></a>
+	<a href="https://www.credly.com/users/elisabete-martins-de-oliveira" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="60" alt="AWS Cloud Practitioner Badge"/></a>
+	<a href="https://www.credly.com/users/elisabete-martins-de-oliveira" target="_blank"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="60" alt="GitHub Foundations"/></a>
+</p>
+
 <table>
   <tr>
     <td>
       <ul>
 	</br>
-	<li>🎯 Backend Developer | Java · Spring Boot · SQL/NoSQL · AWS<br></li>
-	<li>💡 2x AWS Certified · GitHub Foundations · Cloud & CI/CD<br></li>
-	<li>📚 Mathematician by training · Logical by nature · Dev by passion<br></li>
-	<li>🎮 Gamer forever — ...For the <img align="center" src="https://img.icons8.com/color/30/world-of-warcraft-horde.png" />!</li>
+	<li>🎯 Backend Developer | 
+		<a href="https://java.com/" target="_blank"><img align="top" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=Java&logoColor=white" /></a> · 			<a href="https://spring.io/" target="_blank"><img align="top" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" /></a> · 		SQL/NoSQL<br></li>
+	<li>💡 2x 
+		<a href="https://aws.amazon.com/" target="_blank"><img align="top" alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon Web Services-FF9900?style=flat&logo=amazonwebservices&logoColor=white" /></a> · 
+		<a href="https://github.com/" target="_blank"><img align="top" alt="GitHub" src="https://img.shields.io/badge/GitHub Foundations-181717?style=flat&logo=github&logoColor=white" /></a> · 
+		Cloud & CI/CD<br></li>
+	<li>📚 <i>Mathematician</i> by training · <i>Logical</i> by nature · <i>Dev by passion</i><br></li>
+	<li>🎮 <strong>Gamer forever — ...For the <img align="center" src="https://img.icons8.com/color/30/world-of-warcraft-horde.png" />!</strong></li>
 	  </br>
 	<h3> 📚 Currently Learning </h3>
         <ul> 
@@ -30,15 +41,14 @@
 
 ---
 
-## <a href="https://www.credly.com/users/elisabete-martins-de-oliveira" target="_blank"><img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="60" alt="AWS Developer Badge"/></a><a href="https://www.credly.com/users/elisabete-martins-de-oliveira" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="60" alt="AWS Cloud Practitioner Badge"/></a><a href="https://www.credly.com/users/elisabete-martins-de-oliveira" target="_blank"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="60" alt="GitHub Foundations"/></a>About me
-
-I'm a backend developer with a strong foundation in logic and data — a combination shaped by my academic background in Computer Science (FATEC-SP) and Mathematics (UNICSUL).
-
-I've been specializing in backend development with Java, Spring Boot, RESTful APIs, and cloud architecture. I have hands-on experience with JWT-based security, unit testing, Git version control, relational and NoSQL databases, and containerization using Docker.
-
-I chose backend because I love building what powers everything behind the scenes: clean code, well-structured APIs, and scalable, reliable systems.
-
-I genuinely enjoy solving problems, writing clean and purposeful code, and contributing to well-crafted, scalable solutions.
+## 🧠  About me
+   I'm a backend developer with a strong foundation in logic and data — a combination shaped by my academic background in Computer Science (FATEC-SP) and Mathematics (UNICSUL).
+   
+   I've been specializing in backend development with Java, Spring Boot, RESTful APIs, and cloud architecture. I have hands-on experience with JWT-based security, unit testing, Git version control, relational and NoSQL databases, and containerization using Docker.
+   
+   I chose backend because I love building what powers everything behind the scenes: clean code, well-structured APIs, and scalable, reliable systems.
+   
+   I genuinely enjoy solving problems, writing clean and purposeful code, and contributing to well-crafted, scalable solutions.
 
 ---
 
